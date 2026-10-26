@@ -1,0 +1,12 @@
+{
+  "name": "calendario-entregas-astro",
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {"dev": "astro dev", "build": "astro build", "preview": "astro preview"},
+  "dependencies": {
+    "@astrojs/vercel": "^8.2.0",
+    "@supabase/supabase-js": "^2.57.0",
+    "astro": "^5.13.0",
+    "resend": "^6.0.0"
+  }
+}
